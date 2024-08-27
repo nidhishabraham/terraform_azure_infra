@@ -1,2 +1,1 @@
-# terraform_azure_infra
-Iac using Terraform
+# Terraform_InfraOn_Azure
